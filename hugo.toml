@@ -1,0 +1,4 @@
+baseURL = 'https://caiyu.life/'
+languageCode = 'zh_cn'
+title = '个人小站'
+theme = 'hugo-book'
